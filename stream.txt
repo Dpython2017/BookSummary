@@ -1,0 +1,33 @@
+User|Emma||Applicant
+User|Maria||Applicant
+User|Sam|UCL|Mentor
+User|Joe|Edinburgh|Mentor
+User|Yannis|Edinburgh|Mentor
+User|Tom||Applicant
+User|Dave|Glasgow|Mentor
+ChatGroup|1|Emma|Sam
+ChatGroup|2|Emma|Joe
+ChatGroup|3|Emma|Dave
+ChatGroup|4|Maria|Yannis
+Message|Emma|1|Hello|1420106400
+Message|Sam|1|Hello|1420106500
+Message|Sam|1|Hello|1420106600
+Message|Emma|1|Hello|1420106900
+Message|Sam|1|Hello|1420107400
+Message|Emma|2|Hey how are you|1420110000
+Message|Emma|2|Could you tell me about the university?|1420111800
+Message|Joe|2|Welcome|1420113600
+Message|Joe|2|I am Joe|1420115400
+Message|Emma|2|That's great|1420117200
+Message|Joe|2|I know|1420124400
+Message|Emma|2|Speak another time|1420140600
+Message|Dave|3|Hey|1420140601
+Message|Maria|4|Hey Yannis|1420140601
+Message|Yannis|4|Hey Maria|1420141601
+Message|Yannis|4|Welcome to uni|1420142601
+Message|Yannis|4|I hope u are doing great|1420143601
+Message|Yannis|4|let me know if you nees something|1420144601
+Message|Maria|4|Thanks, really appreciated|1420145601
+Message|Yannis|4|no worries|1420146601
+Message|Maria|4|Can i join the uni|1420146601
+Message|Yannis|4|Whats your statement|1420246601
